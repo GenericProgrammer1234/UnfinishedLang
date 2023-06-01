@@ -81,7 +81,6 @@ def Lexer(line):
 
         idx += 1
 
-        return tokens
+    return tokens
 
 Lexer(line)
-
